@@ -82,7 +82,7 @@ const HeroSection = () => {
                 <ArrowDown size={18} />
               </a>
               <a
-                href="https://www.credly.com/badges/f5d25f6c-b25e-439d-bcad-4cbfecc24a62/public_url"
+                href="https://www.credly.com/users/rashmika-prabhath/badges/credly"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-semibold transition-all hover:bg-secondary"
